@@ -3,10 +3,10 @@
 ```
 bundesliga-opponent-dashboard/
 │
-├── data/             # Rohdaten (z. B. StatsBomb JSON)
-├── notebooks/        # Erste Analysen in Jupyter
-├── visuals/          # Exportierte Plots/Grafiken
-├── streamlit_app/    # Falls du später ein Dashboard baust
-├── README.md         # Projektbeschreibung
+├── data/             # Raw Data (StatsBomb JSON)
+├── notebooks/        # Analyses in Jupyter
+├── visuals/          # Exported Plots/Graphs
+├── streamlit_app/    # Dashboard
+├── README.md         # Project Description
 └── requirements.txt  # Python Dependencies
 ```
