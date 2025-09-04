@@ -1,0 +1,14 @@
+# Data
+data/raw/*
+data/interim/*
+data/processed/*
+
+# Reports
+reports/figures/*
+reports/*.pdf
+
+# Envs & cache
+.env
+*.pyc
+__pycache__/
+.ipynb_checkpoints
